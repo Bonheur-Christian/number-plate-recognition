@@ -24,7 +24,6 @@ wheels/
 *.egg
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -47,3 +46,5 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+config.bat
+node_modules
